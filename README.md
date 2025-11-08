@@ -8,3 +8,4 @@ Used LLM
 https://kimi.com
 
 ![kimi_vector_06c](imgs/Screenshot2025-11-07_232039.png)
+![kimi_vector_06c](imgs/Screenshot2025-11-07_233157.png)
